@@ -119,4 +119,5 @@ while True:
 
 Next, we well see data structures in python such as **lists** and **dictionaries**.
 
-[Home
+
+[Home](..\readme.md)

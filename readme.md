@@ -8,11 +8,6 @@ Feel free to explore and give your feedback.
 
 ## MODULES
 
-- [Module I](src/module-1.md)
-  - String
-  - Variable  
-  - Array
-  - Conditional Statemet  
-  - Operator
-  - Loops  
-  - Object Expression
+- [Module 1](src/module-1.md)
+- [Module 2](src/module-2.md)
+- [Additional resources](src/resources.md)

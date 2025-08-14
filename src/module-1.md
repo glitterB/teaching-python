@@ -127,4 +127,4 @@ while True:
 This covers just enough information to get started. In the [Resources](resources.md), you may find additional resources to take things further.
 
 
-[Home](..\readme.md)
+[Home](..\README.md)

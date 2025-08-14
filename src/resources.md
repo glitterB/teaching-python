@@ -5,4 +5,4 @@
 3. [Google's Python Class](https://developers.google.com/edu/python)
 4. [Python 101](https://python101.pythonlibrary.org/)
 
-[Home](..\readme.md)
+[Home](..\README.md)
